@@ -84,7 +84,8 @@
     width: 50px;
     top: 10px;
     right: 0;
-    background-color: green;
+    background-image: url(../img/favorite.png);
+    background-size: cover;
 
 }
 
@@ -102,12 +103,13 @@
     background-color: orange;
     position: absolute;
     bottom: 110px;
+    background-color: #D73B48;
 }
 
 .sostenibilità{
     height: 30px;
     width: 90px;
-    background-color: rgb(0, 247, 255);
+    background-color: #3E8158;
     position: absolute;
     bottom: 110px;
     left: 55px;
@@ -116,10 +118,97 @@
 .sostenibilità1{
     height: 30px;
     width: 90px;
-    background-color: rgb(0, 247, 255);
+    background-color: #3E8158;
     position: absolute;
     bottom: 110px;
     left: 0;
 }
+
+
+.immagine1{
+        background-image: url(../img/1.webp);
+        background-position: center;
+        background-size: cover;
+        height: 450px;
+        width: 100%;
+    }
+
+    .immagine1:hover{
+        background-image: url(../img/1-hover.webp);
+        background-position: center;
+    }
+
+    .immagine2{
+        background-image: url(../img/2.webp);
+        background-position: center;
+        background-size: cover;
+        height: 450px;
+        width: 100%;
+    }
+
+    .immagine2:hover{
+        background-image: url(../img/2-hover.webp);
+        background-position: center;
+        background-size: cover;
+    }
+
+    .immagine3{
+        background-image: url(../img/3.webp);
+        background-position: center;
+        background-size: cover;
+        height: 450px;
+        width: 100%;
+    }
+
+    .immagine3:hover{
+        background-image: url(../img/3-hover.webp);
+        background-position: center;
+        background-size: cover;
+    }
+
+    .immagine4{
+        background-image: url(../img/4.webp);
+        background-position: center;
+        background-size: cover;
+        height: 450px;
+        width: 100%;
+    }
+
+    .immagine4:hover{
+        background-image: url(../img/4-hover.webp);
+        background-position: center;
+        background-size: cover;
+    }
+
+    .immagine5{
+        background-image: url(../img/5.webp);
+        background-position: center;
+        background-size: cover;
+        height: 450px;
+        width: 100%;
+    }
+
+    .immagine5:hover{
+        background-image: url(../img/5-hover.webp);
+        background-position: center;
+        background-size: cover;
+    }
+
+    .immagine6{
+        background-image: url(../img/6.webp);
+        background-position: center;
+        background-size: cover;
+        height: 450px;
+        width: 100%;
+    }
+
+    .immagine6:hover{
+        background-image: url(../img/6-hover.webp);
+        background-position: center;
+        background-size: cover;
+    }
+
+
+
 
 
