@@ -4,6 +4,10 @@
     padding: 0;
 }
 
+.fl{
+    float: left;
+}
+
 .contenitore1{
     width: 100%;
     height: 600px;
@@ -36,7 +40,7 @@
 }
 
 .primo{
-    position: absolute;
+    position: relative;
     left: 10px;
     background-image: url(../img/1.webp);
     background-size: cover;
@@ -48,30 +52,30 @@
 }
 
 .secondo {
-    position: absolute;
-    left: 350px ;
+    position: relative;
+    left: 52px ;
 }
 
 
 .terzo{
-    position: absolute;
-    right: 10px;
+    position: relative;
+    left: 90px;
 }
 
 .quarto{
-    position: absolute;
+    position: relative;
     left: 10px;
 }
 
 .quinto{
     background-color: red;
-    position: absolute;
-    left: 350px ;
+    position: relative;
+    left: 52px ;
 }
 
 .sesto{
-    position: absolute;
-    right: 10px;
+    position: relative;
+    left: 90px;
 }
 
 .favorito{
